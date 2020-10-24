@@ -1,0 +1,49 @@
+{
+    "details":[
+        {
+            "card":{
+                "name":"komali",
+                "email":"komali@gmail.com",
+                "mobile":"963852741",
+                "des":"Card data"
+            }
+        },
+        {
+            "card":{
+                "img":"",
+                "name":"A K R Sri Mounika",
+                "email":"komaliradha2000@gmail.com",
+                "mobile":"9640646289",
+                "des":"student",
+                "carrerobjective":"Harnessing my potential as an employee to keep myself as well as organization better than the best. To be part of an organization which would make me more resourceful and innovative by providing a platform to growth of my skills gained during engineering.",
+                "schoolname":"Naryana english medium high school",
+                "schooldegree":"SSC",
+                "schoolPassout":"2016",
+                "schoolyear":"8.5",
+                "interclg":"sri chaitanya Junior College",
+                "interdegree":"Intermediate",
+                "interpassout":"2018",
+                "intergpa":"9.5",
+                "clg":"Dhanekula institute of engineering and technology",
+                "clgdeg":"BTECH",
+                "clgpass":"2022",
+                "clggpa":"9.5",
+                "Hobbies1":"reading",
+                "Hobbies2":"playing",
+                "carobj":"Carrerobjective:",
+                "edu":"Education:",
+                "Hobb":"Hobbies:",
+                "wors":"WORKSHOP",
+                "w1":"attended for gamfication conducted by apssdc tarining",
+                "w2":"attended for web react using js conducted by apssdc",
+                "lang":"Languages Known",
+                "l1":"c",
+                "l2":"c++",
+                "l3":"java",
+                "l4":"pyhton",
+                "dec":"DECLRATION",
+                "dec1":"I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars."
+            }
+        }
+    ]
+}
